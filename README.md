@@ -1,78 +1,105 @@
-<h1 align="center">Hi 👋, I'm Rehan</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java%2C+JavaScript%2C+HTML%2C+CSS%2C+React+Enthusiast" alt="Typing SVG" />
-</h3>
+<!-- Welcome Banner with Glowing Neon Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=36BCF7&center=true&vCenter=true&width=1000&lines=Welcome+to+Rehan's+Universe!;A+Full-Stack+Developer+Journey;Crafting+Innovations+in+Java+%7C+React+%7C+JavaScript">
+</h1>
 
+<!-- Profile View Counter and Cool Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dark-coder-rehan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dark-coder-rehan&label=Universe%20Visitors&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Developer-4%20Years%20Experience-green?style=for-the-badge" alt="Developer Experience Badge" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+<!-- Futuristic 3D Cube Effect -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/86532339/134740328-b0d5de52-d5e5-4385-8f0a-3df80de100ec.gif" width="500" alt="Futuristic 3D Cube Effect">
+</div>
 
+---
+
+## 🛠️ Tech Stack & Tools
+
+<!-- Customized Animated Skill Icons -->
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> 
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,nodejs,mongodb,git,github,express&theme=dark" alt="Tech Stack"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+## 🚀 GitHub Performance
 
+<!-- Unique Glowing Effect for GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dark-coder-rehan&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dark-coder-rehan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub+Master+Statistics" alt="GitHub Stats" />
 </p>
 
+<!-- Cool GitHub Streak with Vibrant Theme -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dark-coder-rehan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dark-coder-rehan&theme=neon-palenight&hide_border=true&custom_title=🔥+Current+Streak" alt="GitHub Streak Stats" />
 </p>
 
+<!-- Glowing Graph with Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dark-coder-rehan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dark-coder-rehan&theme=onedark&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-coder-rehan&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 🌐 3D Contribution Graph:
+## 🌌 3D Contributions Universe
 
+<!-- 3D Contribution Graph with Glowing Theme -->
 <p align="center">
   <a href="https://skyline.github.com/dark-coder-rehan/2024">
-    <img src="https://github.com/dark-coder-rehan/github-3d-contrib/raw/main/assets/profile-2024.gif" alt="3D GitHub Contribution Graph" />
+    <img src="https://user-images.githubusercontent.com/71378956/198798647-5c7b5f2c-9a9b-42a3-9aa8-65d26e10f579.gif" width="500" alt="3D GitHub Contribution Graph" />
   </a>
 </p>
 
 ---
 
-### 📫 Connect with Me:
+## 🏆 Galactic Achievements
 
+<!-- Animated GitHub Trophies with Custom Style -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dark-coder-rehan&theme=dracula&no-frame=true&column=5&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 👨‍🚀 Rehan's Tech Space Journey
+
+<!-- Tech Journey Timeline with Glowing Neon -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=300&color=39FF14&center=true&vCenter=true&width=500&lines=Started+with+Java+and+HTML...;Mastered+CSS%2C+JS%2C+and+React...;Built+Backends+with+Node.js+and+MongoDB...;Let's+Craft+the+Future+Together!" />
+</p>
+
+---
+
+## 💻 My Virtual Workspace
+
+<!-- Personalized Animated Workspace -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+## 📫 Connect with Me Across the Universe
+
+<!-- Animated Social Media Icons with Hover Effect -->
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="Rehan's LinkedIn" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Rehan's LinkedIn"/>
   </a>
   <a href="https://twitter.com/your-twitter" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Rehan's Twitter" width="40" />
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Rehan's Twitter"/>
+  </a>
+  <a href="mailto:your-email@example.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-Send-orange?style=for-the-badge&logo=gmail" alt="Rehan's Email"/>
   </a>
 </p>
 
+---
+
+<!-- Footer with Signature Glow -->
+<h3 align="center">Made with ❤️ by Rehan</h3>
