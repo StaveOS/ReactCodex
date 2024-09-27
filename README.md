@@ -91,7 +91,7 @@
   <a href="https://linkedin.com/in/your-linkedin" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Rehan's LinkedIn" style="filter: drop-shadow(0 0 10px cyan);" onmouseover="this.style.filter='drop-shadow(0 0 20px cyan)'" onmouseout="this.style.filter='drop-shadow(0 0 10px cyan)'"/>
   </a>
-  <a href="https://twitter.com/your-twitter" target="blank">
+  <a href="https://twitter.com/your-twitter" target="https://x.com/InDarkCoder?t=JM9zqTwdL9SMA4U-zDMNTA&s=09">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Rehan's Twitter" style="filter: drop-shadow(0 0 10px cyan);" onmouseover="this.style.filter='drop-shadow(0 0 20px cyan)'" onmouseout="this.style.filter='drop-shadow(0 0 10px cyan)'"/>
   </a>
   <a href="mailto:your-email@example.com" target="blank">
