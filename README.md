@@ -94,7 +94,7 @@
   <a href="https://x.com/InDarkCoder?t=JM9zqTwdL9SMA4U-zDMNTA&s=09" target="blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Rehan's Twitter" style="filter: drop-shadow(0 0 10px cyan);" onmouseover="this.style.filter='drop-shadow(0 0 20px cyan)'" onmouseout="this.style.filter='drop-shadow(0 0 10px cyan)'"/>
   </a>
-  <a href="mailto:your-email@example.com" target="blank">
+  <a href="rehan770080@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-Send-orange?style=for-the-badge&logo=gmail" alt="Rehan's Email" style="filter: drop-shadow(0 0 10px orange);" onmouseover="this.style.filter='drop-shadow(0 0 20px orange)'" onmouseout="this.style.filter='drop-shadow(0 0 10px orange)'"/>
   </a>
 </p>
