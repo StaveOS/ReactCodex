@@ -88,10 +88,10 @@
 
 <!-- Animated Social Media Icons with Hover Glow -->
 <p align="center">
-  <a href="http://www.linkedin.com/in/dark-coder-242825322" target="blank">
+  <a href="https://www.linkedin.com/in/react-coder-242825322" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Rehan's LinkedIn" style="filter: drop-shadow(0 0 10px cyan);" onmouseover="this.style.filter='drop-shadow(0 0 20px cyan)'" onmouseout="this.style.filter='drop-shadow(0 0 10px cyan)'"/>
   </a>
-  <a href="https://x.com/InDarkCoder?t=JM9zqTwdL9SMA4U-zDMNTA&s=09" target="blank">
+  <a href="x.com/ReactCodex" target="blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Rehan's Twitter" style="filter: drop-shadow(0 0 10px cyan);" onmouseover="this.style.filter='drop-shadow(0 0 20px cyan)'" onmouseout="this.style.filter='drop-shadow(0 0 10px cyan)'"/>
   </a>
   <a href="rehan770080@gmail.com" target="blank">
