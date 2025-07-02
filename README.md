@@ -91,7 +91,7 @@
   <a href="https://www.linkedin.com/in/rehan-ali-242825322" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Rehan's LinkedIn" style="filter: drop-shadow(0 0 10px cyan);" onmouseover="this.style.filter='drop-shadow(0 0 20px cyan)'" onmouseout="this.style.filter='drop-shadow(0 0 10px cyan)'"/>
   </a>
-  <a href="x.com/Stave0S" target="blank">
+  <a href="https://x.com/Stave0S?s=08" target="blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Rehan's Twitter" style="filter: drop-shadow(0 0 10px cyan);" onmouseover="this.style.filter='drop-shadow(0 0 20px cyan)'" onmouseout="this.style.filter='drop-shadow(0 0 10px cyan)'"/>
   </a>
   <a href="rehan770080@gmail.com" target="blank">
